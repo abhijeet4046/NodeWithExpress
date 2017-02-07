@@ -1,0 +1,26 @@
+{
+  "name": "First",
+  "version": "1.0.0",
+  "description": "Sample project in Visual studio 13 in Node using express js",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijeet4046/NodeWithExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijeet4046/NodeWithExpress/issues"
+  },
+  "homepage": "https://github.com/abhijeet4046/NodeWithExpress#readme"
+}
